@@ -196,13 +196,11 @@
   align-items: center;
 }
 
-/* Обычный текст - letter-spacing: 0% */
 .cover__subline-text {
   letter-spacing: 0em;
   white-space: nowrap;
 }
 
-/* Пробелы между словами - letter-spacing: 90% */
 .cover__subline-space {
   display: inline-block;
   width: 1.05em; 
