@@ -125,7 +125,6 @@
   position: relative;
   z-index: 2;
   color: white;
-  height: 100%;
   display: flex;
   flex-direction: column;
   align-items: center;
